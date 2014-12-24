@@ -7,7 +7,12 @@
  */
 
 body {
-  background-color: #321079;
+  background: rgb(211, 213, 226) url('http://i.imgur.com/FcL3gkh.png');
+  background-repeat: no-repeat;
+  background-position: top;
+  background-attachment: fixed;
+  background-size: cover;
+  overflow-y: scroll !important;
   padding-top: 70px;
 }
 
