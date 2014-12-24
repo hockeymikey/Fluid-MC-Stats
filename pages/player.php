@@ -61,7 +61,7 @@ include APPPATH . 'inc/navbar.php';
         </div>
         <div class="panel-body">
           <p class="make-center">
-            <img src="<?php echo $avatar_service_uri . $player; ?>/400" alt="<?php echo($player); ?>&apos;s Head"
+            <img src="<?php echo "https://PixelFace.net/body/" . $player; ?>/9" alt="<?php echo($player); ?>&apos;s Head"
                  class="img-rounded avatar-player-page">
           </p>
 
